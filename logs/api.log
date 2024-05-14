@@ -76,3 +76,6 @@
 14-05-2024 11:55:47.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elemeninte enter tuşunu gönder" parameterizedStepValue:"<key> elemeninte enter tuşunu gönder" parameters:"key"}}
 14-05-2024 11:55:47.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Agodacom Anasayfasına git"}
 14-05-2024 11:55:47.382 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Agodacom Anasayfasına git" parameterizedStepValue:"Agodacom Anasayfasına git"}}
+14-05-2024 13:07:40.439 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"https://www.agoda.com\" adresine git"}
+14-05-2024 13:07:40.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} adresine git" parameterizedStepValue:"<https://www.agoda.com> adresine git" parameters:"https://www.agoda.com"}}
+14-05-2024 13:07:45.955 [Gauge] [DEBUG] Spec file added / modified: /Users/n100021/Desktop/agodacom/specs/example.spec
