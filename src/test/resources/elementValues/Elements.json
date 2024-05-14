@@ -3,8 +3,7 @@
     "key": "SearchBox",
     "value":"textInput",
     "type": "id"
-  },
-  {
+  },{
   "key": "sehir_Sec",
   "value":"[data-element-object-id='7493']",
   "type": "css"
@@ -58,10 +57,17 @@
   },
   {
     "key": "sonraki_adim_button",
-    "value": "{\n    \"key\": \"bebek_yatagi_secimi\",\n    \"value\": \"#babyCot\",\n    \"type\": \"Css\"\n  },",
+    "value": "{\n   \"key\": \"bebek_yatagi_secimi\",\n    \"value\": \"#babyCot\",\n    \"type\": \"Css\"\n  },",
     "type": "Css"
+},
+  {
+    "key": "otel_Sec",
+    "value": "[property-id='566586']",
+    "type": "css"
+  },
+  {
+    "key": "oda_Sec",
+    "value": "[data-element-display-rate='6430.79']",
+    "type": "css"
   }
-
-
-
 ]
