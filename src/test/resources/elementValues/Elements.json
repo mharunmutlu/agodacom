@@ -57,7 +57,7 @@
   },
   {
     "key": "sonraki_adim_button",
-    "value": "{\n    \"key\": \"bebek_yatagi_secimi\",\n    \"value\": \"#babyCot\",\n    \"type\": \"Css\"\n  },",
+    "value": "{\n   \"key\": \"bebek_yatagi_secimi\",\n    \"value\": \"#babyCot\",\n    \"type\": \"Css\"\n  },",
     "type": "Css"
 },
   {
