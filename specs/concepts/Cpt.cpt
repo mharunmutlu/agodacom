@@ -36,3 +36,12 @@
 
 
 
+
+
+# Kullanıcı ilk sırada gelen oteli secer
+* Element var mı kontrol et "otel_Sec"
+* Elementi bekle ve sonra tıkla "otel_Sec"
+
+# Kullanıcı ilk sırada gelen odayi secer
+* Element var mı kontrol et "oda_Sec"
+* Elementi bekle ve sonra tıkla "oda_Sec"
