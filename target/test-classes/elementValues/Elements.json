@@ -1,7 +1,7 @@
 [
   {
-    "key": "ara_btn",
-    "value":"ara_btn_id",
+    "key": "SearchBox",
+    "value":"textInput",
     "type": "id"
   }
 ]
