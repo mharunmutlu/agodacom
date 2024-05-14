@@ -2,6 +2,7 @@
 * "https://www.agoda.com" adresine git
 
 # Kullanıcı anasayfadan otel arar
+* Wait "10" seconds
 * Element var mı kontrol et "Hayır_btn"
 * Elementine tıkla "Hayır_btn"
 * Element var mı kontrol et "SearchBox"
@@ -14,11 +15,18 @@
 * "100" milisaniye bekle
 * "gun_sec" menu "20" tarihini seç
 * "gun_sec" menu "25" tarihini seç
-
-* Wait "5" seconds
+* Çocuk sayısını "1" seç
+* Elementin yüklenmesini bekle "çocuk_yas_drop"
+* Elementine tıkla "çocuk_yas_drop"
+* "cocuk_yas" menu listesinden rasgele seç
+* Elementin yüklenmesini bekle "yas_id"
+* Elementine tıkla "yas_id"
+* Elementin yüklenmesini bekle "btn_submit"
+* Elementine tıkla "btn_submit"
+* Wait "1" seconds
 
 # Otel Filtreleme Secimleri Yapilir
-* Element var mı kontrol et "bes_yildiz_sec_secimi"
+* Element var mı kontrol et "bes_yildiz_secimi"
 * Elementi bekle ve sonra tıkla "bes_yildiz_secimi"
 * Element var mı kontrol et "sehir_merkezi_secimi"
 * Elementi bekle ve sonra tıkla "sehir_merkezi_secimi"
@@ -41,17 +49,12 @@
 * Element var mı kontrol et "sonraki_adim_button"
 * Elementi bekle ve sonra tıkla "sonraki_adim_button"
 
-
-
-
-
-
-
-
 # Kullanıcı ilk sırada gelen oteli secer
 * Element var mı kontrol et "otel_Sec"
 * Elementi bekle ve sonra tıkla "otel_Sec"
 
 # Kullanıcı ilk sırada gelen odayi secer
-* Element var mı kontrol et "oda_Sec"
+* Yeni sekmeye odaklan
+* Elementin yüklenmesini bekle "oda_Sec"
+* "oda_Sec" menu listesinden rasgele seç
 * Elementi bekle ve sonra tıkla "oda_Sec"

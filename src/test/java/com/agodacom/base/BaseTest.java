@@ -14,7 +14,7 @@ public class BaseTest {
     public void setUp() {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--start-maximized");
-        options.addArguments("--kiosk");
+        //options.addArguments("--kiosk");
         driver = new ChromeDriver(options);
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
     }
