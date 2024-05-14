@@ -221,4 +221,17 @@ public class BaseSteps extends BaseTest {
         element.sendKeys(Keys.ENTER);
 
     }
+
+    @Step("<key> menuden <day> tarihini seç")
+    public void chooseRandomElementFromLists(String key, String day){
+        List<WebElement> elements = findElements(key);
+        for (int i = 0 ; i < elements.size() ; ) { //eğer güncel gün seçilirse i++ olduğu durumda fail oluyor.
+            if (Objects.equals(elements.get(i).getText(), day)){
+                System.out.println(elements.get(i).getText() + " günü seçildi");
+                elements.get(i).click();
+                break;
+            }
+            i++;
+        }
+    }
 }

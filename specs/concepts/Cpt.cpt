@@ -2,10 +2,20 @@
 * "https://www.agoda.com" adresine git
 
 # Kullanıcı anasayfadan otel arar
+* Element var mı kontrol et "Hayır_btn"
+* Elementine tıkla "Hayır_btn"
 * Element var mı kontrol et "SearchBox"
 * "Antalya" textini "SearchBox" elemente yaz
 * Element var mı kontrol et "sehir_Sec"
 * Elementi bekle ve sonra tıkla "sehir_Sec"
+* Elementin yüklenmesini bekle "check_in"
+* Elementine tıkla "check_in"
+* Elementine tıkla "check_in"
+* "100" milisaniye bekle
+* "gun_sec" menu "20" tarihini seç
+* "gun_sec" menu "25" tarihini seç
+
+* Wait "5" seconds
 
 # Otel Filtreleme Secimleri Yapilir
 * Element var mı kontrol et "bes_yildiz_sec_secimi"

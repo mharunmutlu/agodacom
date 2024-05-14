@@ -3,5 +3,23 @@
     "key": "SearchBox",
     "value":"textInput",
     "type": "id"
-  }
+  },{
+  "key": "sehir_Sec",
+  "value":"[data-element-object-id='7493']",
+  "type": "css"
+},{
+  "key": "gun_sec",
+  "value":"[role='gridcell']",
+  "type": "css"
+},{
+  "key": "check_in",
+  "value":"check-in-box",
+  "type": "id"
+},{
+  "key": "Hayır_btn",
+  "value":"body > div> div > div > button:nth-child(2)",
+  "type": "css"
+}
 ]
+
+
