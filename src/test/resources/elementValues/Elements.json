@@ -3,9 +3,65 @@
     "key": "SearchBox",
     "value":"textInput",
     "type": "id"
-  },{
+  },
+  {
   "key": "sehir_Sec",
   "value":"[data-element-object-id='7493']",
   "type": "css"
-}
+},
+  {
+    "key": "bes_yildiz_secimi",
+    "value":"//div[@id='SideBarLocationFilters']//span[@class='filter-item-info RecommendedByDestinationCity-5 ']//span[@class='checkbox-icon']",
+    "type": "xpath"
+  },
+  {
+    "key": "sehir_merkezi_secimi",
+    "value": "body > div:nth-child(32) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(13) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(2)",
+    "type": "Css"
+  },
+  {
+    "key": "yuzme_havuzu_secimi",
+    "value": "[data-element-value='93']",
+    "type": "Css"
+  },
+  {
+    "key": "aile_ve_cocuk_secimi",
+    "value": "body > div:nth-child(32) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(9) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(7) > span:nth-child(1) > span:nth-child(1) > span:nth-child(2)",
+    "type": "Css"
+  },
+
+  {
+    "key": "ad_soyad_secimi",
+    "value": "#firstName_lastName",
+    "type": "Css"
+  },
+
+  {
+    "key": "email_secimi",
+    "value": "//input[@id='email']",
+    "type": "Css"
+  },
+  {
+    "key": "email_tekrar_secimi",
+    "value": "#retypeEmail",
+    "type": "Css"
+  },
+  {
+    "key": "diger_istek_bolumu",
+    "value": ".brbfuh",
+    "type": "Css"
+  },
+  {
+    "key": "bebek_yatagi_secimi",
+    "value": "#babyCot",
+    "type": "Css"
+  },
+  {
+    "key": "sonraki_adim_button",
+    "value": "{\n    \"key\": \"bebek_yatagi_secimi\",\n    \"value\": \"#babyCot\",\n    \"type\": \"Css\"\n  },",
+    "type": "Css"
+  }
+
+
+
 ]
