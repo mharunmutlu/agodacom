@@ -9,6 +9,7 @@ import java.time.Duration;
 
 public class BaseTest {
     public static WebDriver driver;
+    String drivertxt = "chrome";
 
     @BeforeScenario
     public void setUp() {
