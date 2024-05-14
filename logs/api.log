@@ -235,3 +235,9 @@
 14-05-2024 14:10:22.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Element var mı kontrol et {}"  parameterizedStepValue:"* Element var mı kontrol et <oda_Sec>"  parameters:"oda_Sec"}}
 14-05-2024 14:10:22.225 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"oda_Sec\""}
 14-05-2024 14:10:22.235 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"* Elementi bekle ve sonra tıkla <oda_Sec>"  parameters:"oda_Sec"}}
+14-05-2024 15:16:06.485 [Gauge] [DEBUG] Concept file removed: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 15:16:06.492 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 15:16:06.522 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 15:16:06.638 [Gauge] [DEBUG] Concept file removed: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 15:16:06.639 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 15:16:06.641 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
