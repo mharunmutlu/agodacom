@@ -81,3 +81,157 @@
 14-05-2024 13:42:05.450 [Gauge] [DEBUG] Spec file removed: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
 14-05-2024 13:42:05.450 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
 14-05-2024 13:42:05.487 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
+14-05-2024 13:43:41.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"5\" saniye bekle"}
+14-05-2024 13:43:41.742 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<5> saniye bekle"  parameters:"5"}}
+14-05-2024 13:43:42.027 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Kullanıcı anasayfadan otel arar"}
+14-05-2024 13:43:42.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı anasayfadan otel arar"  parameterizedStepValue:"Kullanıcı anasayfadan otel arar"}}
+14-05-2024 13:43:43.298 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"SearchBox\""}
+14-05-2024 13:43:43.298 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <SearchBox>"  parameters:"SearchBox"}}
+14-05-2024 13:43:43.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"Antalya\" textini \"SearchBox\" elemente yaz"}
+14-05-2024 13:43:43.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz"  parameterizedStepValue:"<Antalya> textini <SearchBox> elemente yaz"  parameters:"Antalya"  parameters:"SearchBox"}}
+14-05-2024 13:43:43.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"sehir_Sec\""}
+14-05-2024 13:43:43.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <sehir_Sec>"  parameters:"sehir_Sec"}}
+14-05-2024 13:43:43.341 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"sehir_Sec\""}
+14-05-2024 13:43:43.341 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <sehir_Sec>"  parameters:"sehir_Sec"}}
+14-05-2024 13:43:44.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Kullanıcı anasayfadan otel arar"}
+14-05-2024 13:43:44.409 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı anasayfadan otel arar"  parameterizedStepValue:"Kullanıcı anasayfadan otel arar"}}
+14-05-2024 13:45:58.830 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:45:58.866 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:45:58.965 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:45:58.973 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:46:07.442 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:46:07.490 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:10 Concept should have atleast one step => 'Kullanıcı anasayfadan otel arar']
+14-05-2024 13:46:07.490 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:46:07.492 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:10 Concept should have atleast one step => 'Kullanıcı anasayfadan otel arar']
+14-05-2024 13:50:17.839 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Element var mı kontrol et \"SearchBox\""}
+14-05-2024 13:50:17.839 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Element var mı kontrol et {}"  parameterizedStepValue:"* Element var mı kontrol et <SearchBox>"  parameters:"SearchBox"}}
+14-05-2024 13:50:17.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"Antalya\" textini \"SearchBox\" elemente yaz"}
+14-05-2024 13:50:17.863 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} textini {} elemente yaz"  parameterizedStepValue:"* <Antalya> textini <SearchBox> elemente yaz"  parameters:"Antalya"  parameters:"SearchBox"}}
+14-05-2024 13:50:17.877 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Element var mı kontrol et \"sehir_Sec\""}
+14-05-2024 13:50:17.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Element var mı kontrol et {}"  parameterizedStepValue:"* Element var mı kontrol et <sehir_Sec>"  parameters:"sehir_Sec"}}
+14-05-2024 13:50:17.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"sehir_Sec\""}
+14-05-2024 13:50:17.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"* Elementi bekle ve sonra tıkla <sehir_Sec>"  parameters:"sehir_Sec"}}
+14-05-2024 13:50:38.770 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:50:38.777 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:10 Concept should have atleast one step => 'Kullanıcı ilk sırada gelen oteli secer']
+14-05-2024 13:50:38.777 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:50:38.778 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:10 Concept should have atleast one step => 'Kullanıcı ilk sırada gelen oteli secer']
+14-05-2024 13:50:41.152 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-05-2024 13:50:41.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-05-2024 13:50:41.198 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*"}
+14-05-2024 13:50:41.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*"  parameterizedStepValue:"*"}}
+14-05-2024 13:51:12.546 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-05-2024 13:51:12.558 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-05-2024 13:51:19.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-05-2024 13:51:19.782 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-05-2024 13:51:29.988 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-05-2024 13:51:29.989 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-05-2024 13:51:33.426 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:51:33.456 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:11 Step should not be blank => '']
+14-05-2024 13:51:33.456 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:51:33.457 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:11 Step should not be blank => '']
+14-05-2024 13:58:48.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-05-2024 13:58:48.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-05-2024 13:59:03.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Kullanıcı ilk sırada gelen oteli secer"}
+14-05-2024 13:59:03.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Kullanıcı ilk sırada gelen oteli secer"  parameterizedStepValue:"Kullanıcı ilk sırada gelen oteli secer"}}
+14-05-2024 13:59:10.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"o\""}
+14-05-2024 13:59:10.324 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <o>"  parameters:"o"}}
+14-05-2024 13:59:10.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"ote\""}
+14-05-2024 13:59:10.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <ote>"  parameters:"ote"}}
+14-05-2024 13:59:10.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel\""}
+14-05-2024 13:59:10.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel>"  parameters:"otel"}}
+14-05-2024 13:59:11.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel_\""}
+14-05-2024 13:59:11.044 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel_>"  parameters:"otel_"}}
+14-05-2024 13:59:11.152 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel_s\""}
+14-05-2024 13:59:11.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel_s>"  parameters:"otel_s"}}
+14-05-2024 13:59:11.313 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel_se\""}
+14-05-2024 13:59:11.313 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel_se>"  parameters:"otel_se"}}
+14-05-2024 13:59:11.415 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel_sec\""}
+14-05-2024 13:59:11.416 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel_sec>"  parameters:"otel_sec"}}
+14-05-2024 13:59:15.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"o\""}
+14-05-2024 13:59:15.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <o>"  parameters:"o"}}
+14-05-2024 13:59:15.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"ot\""}
+14-05-2024 13:59:15.172 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <ot>"  parameters:"ot"}}
+14-05-2024 13:59:15.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"ote\""}
+14-05-2024 13:59:15.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <ote>"  parameters:"ote"}}
+14-05-2024 13:59:15.292 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel\""}
+14-05-2024 13:59:15.292 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel>"  parameters:"otel"}}
+14-05-2024 13:59:15.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_\""}
+14-05-2024 13:59:15.850 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel_>"  parameters:"otel_"}}
+14-05-2024 13:59:16.385 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_s\""}
+14-05-2024 13:59:16.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel_s>"  parameters:"otel_s"}}
+14-05-2024 13:59:16.533 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_se\""}
+14-05-2024 13:59:16.533 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel_se>"  parameters:"otel_se"}}
+14-05-2024 13:59:16.681 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec\""}
+14-05-2024 13:59:16.682 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel_sec>"  parameters:"otel_sec"}}
+14-05-2024 13:59:16.763 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:16.782 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.792 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:12 String not terminated => 'Elementi bekle ve sonra tıkla "otel_sec']
+14-05-2024 13:59:16.792 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:16.795 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt:12 String not terminated => 'Elementi bekle ve sonra tıkla "otel_sec']
+14-05-2024 13:59:16.800 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:16.815 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.815 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:16.930 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.930 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:16.931 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.931 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:16.931 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.931 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:16.932 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.932 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:16.932 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:16.933 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:17.041 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:17.041 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:17.041 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:17.041 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:17.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:17.042 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:17.088 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_sec"}
+14-05-2024 13:59:17.090 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+14-05-2024 13:59:18.419 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:18.434 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:31.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel_ec\""}
+14-05-2024 13:59:31.853 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel_ec>"  parameters:"otel_ec"}}
+14-05-2024 13:59:32.059 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"otel_Sec\""}
+14-05-2024 13:59:32.061 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <otel_Sec>"  parameters:"otel_Sec"}}
+14-05-2024 13:59:33.943 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_ec\""}
+14-05-2024 13:59:33.943 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel_ec>"  parameters:"otel_ec"}}
+14-05-2024 13:59:34.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"otel_Sec\""}
+14-05-2024 13:59:34.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <otel_Sec>"  parameters:"otel_Sec"}}
+14-05-2024 13:59:36.073 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:36.081 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:41.857 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:59:41.874 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 14:02:44.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"ote_Sec\""}
+14-05-2024 14:02:44.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <ote_Sec>"  parameters:"ote_Sec"}}
+14-05-2024 14:02:44.293 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"ot_Sec\""}
+14-05-2024 14:02:44.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <ot_Sec>"  parameters:"ot_Sec"}}
+14-05-2024 14:02:44.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"o_Sec\""}
+14-05-2024 14:02:44.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <o_Sec>"  parameters:"o_Sec"}}
+14-05-2024 14:02:44.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"_Sec\""}
+14-05-2024 14:02:44.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <_Sec>"  parameters:"_Sec"}}
+14-05-2024 14:02:44.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"od_Sec\""}
+14-05-2024 14:02:44.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <od_Sec>"  parameters:"od_Sec"}}
+14-05-2024 14:02:44.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et \"oda_Sec\""}
+14-05-2024 14:02:44.897 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <oda_Sec>"  parameters:"oda_Sec"}}
+14-05-2024 14:02:46.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"ote_Sec\""}
+14-05-2024 14:02:46.730 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <ote_Sec>"  parameters:"ote_Sec"}}
+14-05-2024 14:02:46.864 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"ot_Sec\""}
+14-05-2024 14:02:46.864 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <ot_Sec>"  parameters:"ot_Sec"}}
+14-05-2024 14:02:47.033 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"o_Sec\""}
+14-05-2024 14:02:47.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <o_Sec>"  parameters:"o_Sec"}}
+14-05-2024 14:02:47.132 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"od_Sec\""}
+14-05-2024 14:02:47.133 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <od_Sec>"  parameters:"od_Sec"}}
+14-05-2024 14:02:47.208 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla \"oda_Sec\""}
+14-05-2024 14:02:47.209 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <oda_Sec>"  parameters:"oda_Sec"}}
+14-05-2024 14:02:47.850 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 14:02:47.874 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 14:10:22.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Element var mı kontrol et \"otel_Sec\""}
+14-05-2024 14:10:22.204 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Element var mı kontrol et {}"  parameterizedStepValue:"* Element var mı kontrol et <otel_Sec>"  parameters:"otel_Sec"}}
+14-05-2024 14:10:22.209 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"otel_Sec\""}
+14-05-2024 14:10:22.209 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"* Elementi bekle ve sonra tıkla <otel_Sec>"  parameters:"otel_Sec"}}
+14-05-2024 14:10:22.220 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Element var mı kontrol et \"oda_Sec\""}
+14-05-2024 14:10:22.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Element var mı kontrol et {}"  parameterizedStepValue:"* Element var mı kontrol et <oda_Sec>"  parameters:"oda_Sec"}}
+14-05-2024 14:10:22.225 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* Elementi bekle ve sonra tıkla \"oda_Sec\""}
+14-05-2024 14:10:22.235 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"* Elementi bekle ve sonra tıkla <oda_Sec>"  parameters:"oda_Sec"}}

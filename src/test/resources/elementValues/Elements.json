@@ -7,5 +7,15 @@
   "key": "sehir_Sec",
   "value":"[data-element-object-id='7493']",
   "type": "css"
-}
+},
+  {
+    "key": "otel_Sec",
+    "value": "[property-id='566586']",
+    "type": "css"
+  },
+  {
+    "key": "oda_Sec",
+    "value": "[data-element-display-rate='6430.79']",
+    "type": "css"
+  }
 ]
