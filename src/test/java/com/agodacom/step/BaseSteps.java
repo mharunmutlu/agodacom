@@ -197,6 +197,21 @@ public class BaseSteps extends BaseTest {
         logger.info(key + " elementine " + text + " değeri js ile yazıldı.");
     }
 
+    @Step("<key> elementine js ile tıkle")
+    public void clickwithJS(String key){
+        WebElement element = findElement(key);
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].click();", element);
+    }
+    @Step("Yeni sekmeye odaklan")
+    public void focusNewTab(){
+        ArrayList<String> tabs = new ArrayList<String> (driver.getWindowHandles());
+        driver.switchTo().window(tabs.get(0));
+        driver.close();
+        logger.info("Yeni sekmeye geçildi");
+
+    }
+
     @Step("<key> menu <day> tarihini seç")
     public void chooseRandomElementFromList(String key, String day) throws InterruptedException {
         List<WebElement> elements = findElements(key);
@@ -233,5 +248,12 @@ public class BaseSteps extends BaseTest {
             }
             i++;
         }
+    }
+    @Step("Çocuk sayısını <key> seç")
+    public void increaseKid(String key){
+        WebElement element = findElement("cocuk_arttır");
+        int adet = Integer.parseInt(key);
+        for (int i = 0; i < adet; i++)
+            element.click();
     }
 }
