@@ -76,3 +76,79 @@
 14-05-2024 11:55:47.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elemeninte enter tuşunu gönder" parameterizedStepValue:"<key> elemeninte enter tuşunu gönder" parameters:"key"}}
 14-05-2024 11:55:47.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Agodacom Anasayfasına git"}
 14-05-2024 11:55:47.382 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Agodacom Anasayfasına git" parameterizedStepValue:"Agodacom Anasayfasına git"}}
+14-05-2024 13:09:32.310 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+14-05-2024 13:09:32.310 [Gauge] [DEBUG] Adding concepts from C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
+14-05-2024 13:09:32.354 [Gauge] [INFO] Initializing specs cache with 1 specs
+14-05-2024 13:09:32.355 [Gauge] [DEBUG] Adding specs from C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
+14-05-2024 13:09:32.355 [Gauge] [INFO] Initializing steps cache with 2 steps
+14-05-2024 13:09:32.356 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50677
+14-05-2024 13:09:32.367 [Gauge] [DEBUG] Watching directory: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs
+14-05-2024 13:09:32.367 [Gauge] [DEBUG] Found 2 files
+14-05-2024 13:09:32.376 [Gauge] [DEBUG] Watching directory: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts
+14-05-2024 13:09:32.377 [Gauge] [DEBUG] Found 1 files
+14-05-2024 13:10:02.763 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"* \"https://www.agoda.com\" adresine git"}
+14-05-2024 13:10:02.764 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"* {} adresine git"  parameterizedStepValue:"* <https://www.agoda.com> adresine git"  parameters:"https://www.agoda.com"}}
+14-05-2024 13:10:02.765 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<int> saniye bekle."}
+14-05-2024 13:10:02.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle."  parameterizedStepValue:"<int> saniye bekle."  parameters:"int"}}
+14-05-2024 13:10:03.062 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Agodacom Anasayfasına git"}
+14-05-2024 13:10:03.062 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Agodacom Anasayfasına git"  parameterizedStepValue:"Agodacom Anasayfasına git"}}
+14-05-2024 13:10:03.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<text> textini <key> elementine yaz."}
+14-05-2024 13:10:03.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} textini {} elementine yaz."  parameterizedStepValue:"<text> textini <key> elementine yaz."  parameters:"text"  parameters:"key"}}
+14-05-2024 13:10:07.416 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check if element <key> exists"}
+14-05-2024 13:10:07.417 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check if element {} exists"  parameterizedStepValue:"Check if element <key> exists"  parameters:"key"}}
+14-05-2024 13:10:07.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Wait for element to load with key <key>"}
+14-05-2024 13:10:07.419 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Wait for element to load with key {}"  parameterizedStepValue:"Wait for element to load with key <key>"  parameters:"key"}}
+14-05-2024 13:10:07.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Element var mı kontrol et <key>"}
+14-05-2024 13:10:07.422 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Element var mı kontrol et {}"  parameterizedStepValue:"Element var mı kontrol et <key>"  parameters:"key"}}
+14-05-2024 13:10:07.422 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementin yüklenmesini bekle <key>"}
+14-05-2024 13:10:07.423 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementin yüklenmesini bekle {}"  parameterizedStepValue:"Elementin yüklenmesini bekle <key>"  parameters:"key"}}
+14-05-2024 13:10:07.435 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementin yüklenmesini bekle <key>"}
+14-05-2024 13:10:07.435 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementin yüklenmesini bekle {}"  parameterizedStepValue:"Elementin yüklenmesini bekle <key>"  parameters:"key"}}
+14-05-2024 13:10:07.455 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Wait <value> seconds"}
+14-05-2024 13:10:07.458 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Wait {} seconds"  parameterizedStepValue:"Wait <value> seconds"  parameters:"value"}}
+14-05-2024 13:10:07.458 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Wait <value> seconds"}
+14-05-2024 13:10:07.458 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Wait {} seconds"  parameterizedStepValue:"Wait <value> seconds"  parameters:"value"}}
+14-05-2024 13:10:07.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<int> saniye bekle"}
+14-05-2024 13:10:07.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<int> saniye bekle"  parameters:"int"}}
+14-05-2024 13:10:07.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<int> saniye bekle"}
+14-05-2024 13:10:07.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} saniye bekle"  parameterizedStepValue:"<int> saniye bekle"  parameters:"int"}}
+14-05-2024 13:10:07.472 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Wait <value> milliseconds"}
+14-05-2024 13:10:07.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Wait {} milliseconds"  parameterizedStepValue:"Wait <value> milliseconds"  parameters:"value"}}
+14-05-2024 13:10:07.486 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<long> milisaniye bekle"}
+14-05-2024 13:10:07.487 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} milisaniye bekle"  parameterizedStepValue:"<long> milisaniye bekle"  parameters:"long"}}
+14-05-2024 13:10:07.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Wait for element then click <key>"}
+14-05-2024 13:10:07.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Wait for element then click {}"  parameterizedStepValue:"Wait for element then click <key>"  parameters:"key"}}
+14-05-2024 13:10:08.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementi bekle ve sonra tıkla <key>"}
+14-05-2024 13:10:08.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementi bekle ve sonra tıkla {}"  parameterizedStepValue:"Elementi bekle ve sonra tıkla <key>"  parameters:"key"}}
+14-05-2024 13:10:08.142 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click to element <key>"}
+14-05-2024 13:10:08.143 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click to element {}"  parameterizedStepValue:"Click to element <key>"  parameters:"key"}}
+14-05-2024 13:10:08.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementine tıkla <key>"}
+14-05-2024 13:10:08.152 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}"  parameterizedStepValue:"Elementine tıkla <key>"  parameters:"key"}}
+14-05-2024 13:10:08.209 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Write value <text> to element <key>"}
+14-05-2024 13:10:08.209 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Write value {} to element {}"  parameterizedStepValue:"Write value <text> to element <key>"  parameters:"text"  parameters:"key"}}
+14-05-2024 13:10:08.211 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Elementine tıkla <key>"}
+14-05-2024 13:10:08.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Elementine tıkla {}"  parameterizedStepValue:"Elementine tıkla <key>"  parameters:"key"}}
+14-05-2024 13:10:08.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<text> textini <key> elemente yaz"}
+14-05-2024 13:10:08.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} textini {} elemente yaz"  parameterizedStepValue:"<text> textini <key> elemente yaz"  parameters:"text"  parameters:"key"}}
+14-05-2024 13:10:08.236 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to <url> address"}
+14-05-2024 13:10:08.256 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to {} address"  parameterizedStepValue:"Go to <url> address"  parameters:"url"}}
+14-05-2024 13:10:08.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<url> adresine git"}
+14-05-2024 13:10:08.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} adresine git"  parameterizedStepValue:"<url> adresine git"  parameters:"url"}}
+14-05-2024 13:10:08.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Write random value to element <key>"}
+14-05-2024 13:10:08.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Write random value to element {}"  parameterizedStepValue:"Write random value to element <key>"  parameters:"key"}}
+14-05-2024 13:10:08.272 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> elementine random değer yaz"}
+14-05-2024 13:10:08.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} elementine random değer yaz"  parameterizedStepValue:"<key> elementine random değer yaz"  parameters:"key"}}
+14-05-2024 13:10:08.313 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> li element comparetexti içeriyor mu"}
+14-05-2024 13:10:08.314 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} li element comparetexti içeriyor mu"  parameterizedStepValue:"<key> li element comparetexti içeriyor mu"  parameters:"key"}}
+14-05-2024 13:10:08.402 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> menu listesinden rasgele seç"}
+14-05-2024 13:10:08.402 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} menu listesinden rasgele seç"  parameterizedStepValue:"<key> menu listesinden rasgele seç"  parameters:"key"}}
+14-05-2024 13:10:08.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> menu listesinden rasgele seç"}
+14-05-2024 13:10:08.403 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} menu listesinden rasgele seç"  parameterizedStepValue:"<key> menu listesinden rasgele seç"  parameters:"key"}}
+14-05-2024 13:10:08.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> elementine <text> değerini js ile yaz"}
+14-05-2024 13:10:08.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} elementine {} değerini js ile yaz"  parameterizedStepValue:"<key> elementine <text> değerini js ile yaz"  parameters:"key"  parameters:"text"}}
+14-05-2024 13:10:08.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> elementine <text> değerini js ile yaz"}
+14-05-2024 13:10:08.445 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} elementine {} değerini js ile yaz"  parameterizedStepValue:"<key> elementine <text> değerini js ile yaz"  parameters:"key"  parameters:"text"}}
+14-05-2024 13:10:08.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> menu <day> tarihini seç"}
+14-05-2024 13:10:08.478 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} menu {} tarihini seç"  parameterizedStepValue:"<key> menu <day> tarihini seç"  parameters:"key"  parameters:"day"}}
+14-05-2024 13:10:08.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"<key> elemeninte enter tuşunu gönder"}
+14-05-2024 13:10:08.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} elemeninte enter tuşunu gönder"  parameterizedStepValue:"<key> elemeninte enter tuşunu gönder"  parameters:"key"}}
