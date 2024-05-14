@@ -1,0 +1,8 @@
+[
+	"/opt/homebrew/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/n100021/Desktop/agodacom/specs/example.spec:3"
+]
