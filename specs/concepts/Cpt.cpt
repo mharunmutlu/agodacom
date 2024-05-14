@@ -1,3 +1,8 @@
 # Agodacom Anasayfasına git
 * "https://www.agoda.com" adresine git
 
+# Kullanıcı anasayfadan otel arar
+* Element var mı kontrol et "SearchBox"
+* "Antalya" textini "SearchBox" elemente yaz
+* Element var mı kontrol et "sehir_Sec"
+* Elementi bekle ve sonra tıkla "sehir_Sec"

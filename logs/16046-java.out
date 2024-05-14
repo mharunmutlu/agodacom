@@ -1,0 +1,104 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: A number (20) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+{"logLevel":"debug","message":"gauge-java took 411milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 411"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 53099"}
+{"logLevel":"info","message":"Listening on port:53099"}
+2024-05-14 13:32:27 INFO  Reflections:219 scan - Reflections took 960 ms to scan 171 urls, producing 5674 keys and 34042 values
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.goToUrl' and 'com.agodacom.step.BaseSteps.goToUrl'"}
+{"logLevel":"debug","message":"Found Go to {} address in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.goToUrl' and 'com.agodacom.step.BaseSteps.goToUrl'"}
+{"logLevel":"debug","message":"Found {} adresine git in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.waitBySeconds' and 'com.agodacom.step.BaseSteps.waitBySeconds'"}
+{"logLevel":"debug","message":"Found Wait {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.waitBySeconds' and 'com.agodacom.step.BaseSteps.waitBySeconds'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.writeToKeyWithJavaScript' and 'com.agodacom.step.BaseSteps.writeToKeyWithJavaScript'"}
+{"logLevel":"debug","message":"Found {} elementine {} değerini js ile yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.clickElement' and 'com.agodacom.step.BaseSteps.clickElement'"}
+{"logLevel":"debug","message":"Found Click to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.clickElement' and 'com.agodacom.step.BaseSteps.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.ssendKeys' and 'com.agodacom.step.BaseSteps.ssendKeys'"}
+{"logLevel":"debug","message":"Found Write value {} to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.ssendKeys' and 'com.agodacom.step.BaseSteps.ssendKeys'"}
+{"logLevel":"debug","message":"Found {} textini {} elemente yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists' and 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Check if element {} exists in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists' and 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Wait for element to load with key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists' and 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Element var mı kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists' and 'com.agodacom.step.BaseSteps.getElementWithKeyIfExists'"}
+{"logLevel":"debug","message":"Found Elementin yüklenmesini bekle {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.waitByMilliSeconds' and 'com.agodacom.step.BaseSteps.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found Wait {} milliseconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.waitByMilliSeconds' and 'com.agodacom.step.BaseSteps.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.sendEnter' and 'com.agodacom.step.BaseSteps.sendEnter'"}
+{"logLevel":"debug","message":"Found {} elemeninte enter tuşunu gönder in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.StepImplementation.sendKeysText' and 'com.agodacom.step.StepImplementation.sendKeysText'"}
+{"logLevel":"debug","message":"Found {} textini {} elementine yaz. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.chooseRandomElementFromList' and 'com.agodacom.step.BaseSteps.chooseRandomElementFromList'"}
+{"logLevel":"debug","message":"Found {} menu {} tarihini seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.checkelementtext' and 'com.agodacom.step.BaseSteps.checkelementtext'"}
+{"logLevel":"debug","message":"Found {} li element comparetexti içeriyor mu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.writeRandomValueToElement' and 'com.agodacom.step.BaseSteps.writeRandomValueToElement'"}
+{"logLevel":"debug","message":"Found Write random value to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.writeRandomValueToElement' and 'com.agodacom.step.BaseSteps.writeRandomValueToElement'"}
+{"logLevel":"debug","message":"Found {} elementine random değer yaz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.checkElementExistsThenClick' and 'com.agodacom.step.BaseSteps.checkElementExistsThenClick'"}
+{"logLevel":"debug","message":"Found Wait for element then click {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.checkElementExistsThenClick' and 'com.agodacom.step.BaseSteps.checkElementExistsThenClick'"}
+{"logLevel":"debug","message":"Found Elementi bekle ve sonra tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.StepImplementation.waitSec' and 'com.agodacom.step.StepImplementation.waitSec'"}
+{"logLevel":"debug","message":"Found {} saniye bekle. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.agodacom.step.BaseSteps.chooseRandomElementFromList' and 'com.agodacom.step.BaseSteps.chooseRandomElementFromList'"}
+{"logLevel":"debug","message":"Found {} menu listesinden rasgele seç in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tWait {} milliseconds : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\t{} adresine git : public void goToUrl(String url)"}
+{"logLevel":"debug","message":"\t{} li element comparetexti içeriyor mu : public void checkelementtext(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle. : public void waitSec(ınt seconds) throws InterruptedException"}
+{"logLevel":"debug","message":"\tElement var mı kontrol et {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySeconds(ınt seconds)"}
+{"logLevel":"debug","message":"\tWait for element then click {} : public void checkElementExistsThenClick(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elementine yaz. : public void sendKeysText(String text, String key)"}
+{"logLevel":"debug","message":"\t{} elementine {} değerini js ile yaz : public void writeToKeyWithJavaScript(String key, String text)"}
+{"logLevel":"debug","message":"\tGo to {} address : public void goToUrl(String url)"}
+{"logLevel":"debug","message":"\tCheck if element {} exists : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\tWait {} seconds : public void waitBySeconds(ınt seconds)"}
+{"logLevel":"debug","message":"\tWrite value {} to element {} : public void ssendKeys(String text, String key)"}
+{"logLevel":"debug","message":"\tElementin yüklenmesini bekle {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\tWrite random value to element {} : public void writeRandomValueToElement(String key)"}
+{"logLevel":"debug","message":"\t{} menu listesinden rasgele seç : public void chooseRandomElementFromList(String key) throws InterruptedException"}
+{"logLevel":"debug","message":"\t{} elementine random değer yaz : public void writeRandomValueToElement(String key)"}
+{"logLevel":"debug","message":"\tElementi bekle ve sonra tıkla {} : public void checkElementExistsThenClick(String key)"}
+{"logLevel":"debug","message":"\tClick to element {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\tWait for element to load with key {} : public WebElement getElementWithKeyIfExists(String key)"}
+{"logLevel":"debug","message":"\t{} menu {} tarihini seç : public void chooseRandomElementFromList(String key, String day) throws InterruptedException"}
+{"logLevel":"debug","message":"\tElementine tıkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} elemeninte enter tuşunu gönder : public void sendEnter(String key)"}
+{"logLevel":"debug","message":"\t{} textini {} elemente yaz : public void ssendKeys(String text, String key)"}
+2024-05-14 13:32:27 INFO  Reflections:219 scan - Reflections took 345 ms to scan 171 urls, producing 5596 keys and 24936 values
+May 14, 2024 1:32:29 ÖS org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 124, returning the closest version; found: 120; Please update to a Selenium version that supports CDP version 124
+{"logLevel":"debug","message":"Executing '{} adresine git' using 'class com.agodacom.step.BaseSteps.goToUrl"}
+2024-05-14 13:32:31 INFO  BaseSteps:159 goToUrl - https://www.agoda.com adresine gidiliyor.
+{"logLevel":"debug","message":"Executing 'Element var mı kontrol et {}' using 'class com.agodacom.step.BaseSteps.getElementWithKeyIfExists"}
+2024-05-14 13:32:31 INFO  BaseSteps:92 getElementWithKeyIfExists - SearchBox elementi bulundu.
+{"logLevel":"debug","message":"Executing '{} textini {} elemente yaz' using 'class com.agodacom.step.BaseSteps.ssendKeys"}
+2024-05-14 13:32:31 INFO  BaseSteps:152 ssendKeys - SearchBox elementine Antalya texti yazıldı.
+{"logLevel":"debug","message":"Executing '{} elemeninte enter tuşunu gönder' using 'class com.agodacom.step.BaseSteps.sendEnter"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class com.agodacom.step.BaseSteps.waitBySeconds"}
+2024-05-14 13:32:31 INFO  BaseSteps:107 waitBySeconds - 5 saniye bekleniyor.
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}

@@ -1,7 +1,11 @@
 [
   {
-    "key": "ara_btn",
-    "value":"ara_btn_id",
+    "key": "SearchBox",
+    "value":"textInput",
     "type": "id"
-  }
+  },{
+  "key": "sehir_Sec",
+  "value":"[data-element-object-id='7493']",
+  "type": "css"
+}
 ]
