@@ -25,6 +25,7 @@ public class BaseSteps extends BaseTest {
     private static Log4jLoggerAdapter logger = (Log4jLoggerAdapter) LoggerFactory
             .getLogger(BaseSteps.class);
 
+    //dogukan
     private Actions actions = new Actions(driver);
     private String compareText;
 
