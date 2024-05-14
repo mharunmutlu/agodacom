@@ -6,3 +6,33 @@
 * "Antalya" textini "SearchBox" elemente yaz
 * Element var mı kontrol et "sehir_Sec"
 * Elementi bekle ve sonra tıkla "sehir_Sec"
+
+# Otel Filtreleme Secimleri Yapilir
+* Element var mı kontrol et "bes_yildiz_sec_secimi"
+* Elementi bekle ve sonra tıkla "bes_yildiz_secimi"
+* Element var mı kontrol et "sehir_merkezi_secimi"
+* Elementi bekle ve sonra tıkla "sehir_merkezi_secimi"
+* Element var mı kontrol et "yuzme_havuzu_secimi"
+* Elementi bekle ve sonra tıkla "yuzme_havuzu_secimi"
+* Element var mı kontrol et "aile_ve_cocuk_secimi"
+* Elementi bekle ve sonra tıkla "aile_ve_cocuk_secimi"
+
+# Müşteri Bilgileri Girilir
+* Element var mı kontrol et "ad_soyad_secimi"
+* "Test Test" textini "ad_soyad_secimi" elemente yaz
+* Element var mı kontrol et "email_secimi"
+* "test@gmail.com" textini "email_secimi" elemente yaz
+* Element var mı kontrol et "email_tekrar_secimi"
+* "test@gmail.com" textini "email_tekrar_secimi" elemente yaz
+* Element var mı kontrol et "diger_istek_bolumu"
+* Elementi bekle ve sonra tıkla "diger_istek_bolumu"
+* Element var mı kontrol et "bebek_yatagi_secim"
+* Elementi bekle ve sonra tıkla "bebek_yatagi_secim"
+* Element var mı kontrol et "sonraki_adim_button"
+* Elementi bekle ve sonra tıkla "sonraki_adim_button"
+
+
+
+
+
+

@@ -75,9 +75,4 @@
 14-05-2024 11:55:47.347 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<key> elemeninte enter tuşunu gönder"}
 14-05-2024 11:55:47.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} elemeninte enter tuşunu gönder" parameterizedStepValue:"<key> elemeninte enter tuşunu gönder" parameters:"key"}}
 14-05-2024 11:55:47.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Agodacom Anasayfasına git"}
-14-05-2024 11:55:47.382 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Agodacom Anasayfasına git" parameterizedStepValue:"Agodacom Anasayfasına git"}}14-05-2024 13:42:05.357 [Gauge] [DEBUG] Concept file removed: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
-14-05-2024 13:42:05.358 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
-14-05-2024 13:42:05.447 [Gauge] [DEBUG] Concept file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\concepts\Cpt.cpt
-14-05-2024 13:42:05.450 [Gauge] [DEBUG] Spec file removed: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
-14-05-2024 13:42:05.450 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
-14-05-2024 13:42:05.487 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Testinium\Desktop\Hitit Otomasyon\agodacom\specs\example.spec
+
