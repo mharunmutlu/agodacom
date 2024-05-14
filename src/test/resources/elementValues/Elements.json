@@ -108,6 +108,11 @@
     "key": "Hayır_btn",
     "value": "div[class='ab-message-buttons'] > button:nth-child(2)",
     "type": "css"
+  },
+  {
+    "key": "test_logo",
+    "value": "[data-element-name=primary-logo]",
+    "type": "css"
   }
 ]
 

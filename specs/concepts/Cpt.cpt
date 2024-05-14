@@ -55,6 +55,7 @@
 
 # Kullanıcı ilk sırada gelen odayi secer
 * Yeni sekmeye odaklan
+* Wait "5" seconds
+* Elementin yüklenmesini bekle "test_logo"
 * Elementin yüklenmesini bekle "oda_Sec"
-* "oda_Sec" menu listesinden rasgele seç
-* Elementi bekle ve sonra tıkla "oda_Sec"
+* Elementine tıkla "oda_Sec"

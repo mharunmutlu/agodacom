@@ -205,13 +205,9 @@ public class BaseSteps extends BaseTest {
     }
     @Step("Yeni sekmeye odaklan")
     public void focusNewTab(){
-        ArrayList<String> tabs = new ArrayList<String> (driver.getWindowHandles());
-        driver.switchTo().window(tabs.get(0));
-        driver.close();
-        logger.info("Yeni sekmeye geçildi");
-
+        ArrayList<String> tabs = new ArrayList<>(driver.getWindowHandles());
+        driver.switchTo().window(tabs.get(tabs.size() - 1));
     }
-
     @Step("<key> menu <day> tarihini seç")
     public void chooseRandomElementFromList(String key, String day) throws InterruptedException {
         List<WebElement> elements = findElements(key);
